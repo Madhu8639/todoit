@@ -7,7 +7,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/RT-Weather-App.git
+   git clone [https://github.com//](https://github.com/Madhu8639/todoit.git
    cd todoit
 2. **Install Dependencies**
 
